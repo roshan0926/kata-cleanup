@@ -1,3 +1,4 @@
+// THIS IS KATA 1
 const sumLargestNumbers = data => {
   let num1 = 0;
   for (let i = 0; i < data.length; i++) {
